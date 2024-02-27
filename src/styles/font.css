@@ -1,0 +1,21 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/KarmaBold.ttf");
+  font-family: "Karma";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/KarmaRegular.ttf");
+  font-family: "Karma";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/KarmaMedium.ttf");
+  font-family: "Karma";
+  font-weight: 500;
+}
